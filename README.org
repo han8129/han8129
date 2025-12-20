@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [[https://github.com/han8129][@han8129]]
-- 👀 I’m interested in productibity applications
-- 🌱 I’m currently learning =Common Lisp=
-- 💞️ I’m looking to collaborate on a beginner friendly project
+- 👀 I’m interested in programming in Lisp
+- 💞️ I’m looking to collaborate on a project
 
 #+begin_comment
 han8129/han8129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
